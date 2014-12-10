@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="myStackOverflow"
+  id="myeclipse.1413094408315"
+  context-root="/myStackOverflow"
+  j2ee-spec="6.0"
+  archive="myStackOverflow.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
